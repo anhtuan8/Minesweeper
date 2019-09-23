@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1557934851 source:/home/anhtuan/Documents/ltnc/sdl/minesweeper/Game.cpp
+	"Game.hpp"
+	<SDL2/SDL_image.h>
+	"Tile.hpp"
+	<ctime>
+	<cstdlib>
+	"utils.hpp"
+	<iostream>
+	"text.hpp"
+	<fstream>
+
+1557668770 /home/anhtuan/Documents/ltnc/sdl/minesweeper/Game.hpp
+	<SDL2/SDL.h>
+	<iostream>
+	<SDL2/SDL_ttf.h>
+
+1557840412 source:/home/anhtuan/Documents/ltnc/sdl/minesweeper/Main.cpp
+	"Game.hpp"
+
+1556463064 /home/anhtuan/Documents/ltnc/sdl/minesweeper/Tile.hpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1557653122 source:/home/anhtuan/Documents/ltnc/sdl/minesweeper/Tile.cpp
+	"Game.hpp"
+	<SDL2/SDL_image.h>
+	"Tile.hpp"
+	<string>
+	<iostream>
+	"text.hpp"
+
+1557081113 /home/anhtuan/Documents/ltnc/sdl/minesweeper/utils.hpp
+	<iostream>
+	<SDL2/SDL.h>
+	"Game.hpp"
+	"Tile.hpp"
+
+1556639408 source:/home/anhtuan/Documents/ltnc/sdl/minesweeper/utils.cpp
+	"utils.hpp"
+	"Game.hpp"
+	<iostream>
+
+1556283444 /home/anhtuan/Documents/ltnc/sdl/minesweeper/include/object.h
+
+1557677696 source:/home/anhtuan/Documents/ltnc/sdl/minesweeper/text.cpp
+	"text.hpp"
+
+1557677482 /home/anhtuan/Documents/ltnc/sdl/minesweeper/text.hpp
+	<string>
+	<SDL2/SDL_ttf.h>
+	"Game.hpp"
+
